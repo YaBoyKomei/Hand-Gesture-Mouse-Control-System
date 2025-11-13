@@ -23,7 +23,9 @@ MediaPipe
 
 OpenCV
 
-PyAutoGUI (for mouse control)
+PyAutoGUI (for scrolling)
+
+Pynput (for controlling mouse)
 
 ## How It Works
 
