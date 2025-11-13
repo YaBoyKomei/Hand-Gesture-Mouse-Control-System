@@ -1,5 +1,5 @@
 # Hand-Gesture-Mouse-Control-System
-##Hand Gesture Mouse Control using Python, MediaPipe, and OpenCV
+## Hand Gesture Mouse Control using Python, MediaPipe, and OpenCV
 
 This project enables users to control the mouse cursor using hand gestures detected through a webcam. Built with Python, MediaPipe, and OpenCV, it leverages real-time computer vision to recognize hand landmarks and map them to mouse movements and clicks — providing a touch-free, intuitive way to interact with your computer.
 
@@ -37,7 +37,8 @@ Uses PyAutoGUI to control the system mouse in real time
 
 ## Demo
 
-(Add a GIF or screenshot of your project in action here.)
+<img width="817" height="434" alt="image" src="https://github.com/user-attachments/assets/1217f927-0203-49b8-b8f3-93db2b128a5b" />
+
 
 ## Future Improvements
 
